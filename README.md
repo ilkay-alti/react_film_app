@@ -1,6 +1,6 @@
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [React CryptoDashboard App]               | [Click](https://vigilant-engelbart-c092e1.netlify.app/)
+| 01  | [React Film App]               | [Click](https://vigilant-engelbart-c092e1.netlify.app/)
 
 # Getting Started with Create React App
 
